@@ -13,3 +13,4 @@
 ![](https://github.com/YoungCucumber/TZ3/blob/master/Диаграмма%20последовательности.jpg)
 ![](https://github.com/YoungCucumber/TZ3/blob/master/Диаграмма%20состояний.jpg)
 ![](https://github.com/YoungCucumber/TZ3/blob/master/Диаграмма_вариантов_использования.jpg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Внимание!+Спасибо+за+внимание!)](https://git.io/typing-svg)
